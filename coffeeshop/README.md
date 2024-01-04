@@ -1,4 +1,4 @@
-# dailyquotes
+# CoffeShop
 
 A new Flutter project.
 
